@@ -1,0 +1,3 @@
+# Travon
+
+Travon grew up on a computer. If someone in the neighborhood needed a website he was the guy. It started off as just family and freinds but by the time he got too college he had a healthy business going and he was able to himself through a comp sci degree almost debt free. Travon works at shipping software company with a LOT of legacy data entry code that's starting to show it's age. Younger company's are out competing them and they hired Travon to help the figure out how to get ahead again before it's too late. Travon know he's going to need the best tools and practices to help this old dinosour become a lean, mean, agile, daily delivery machine.
